@@ -7,8 +7,7 @@ Caution! Karel can't count, and starts with infinite beepers infinite
 her bag. How can you solve this puzzle?
 
 Spread Beepers Karel Section problem
-Code in Place 2023
-May 4th, 2023
+Code in Place Week 2
 """
 
 

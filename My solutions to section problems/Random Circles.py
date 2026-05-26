@@ -10,8 +10,7 @@ The following program generates:
 The program generates all circles within the Canvas boundaries.
 
 Random Circles Section problem
-Code in Place 2023
-May 18th, 2023
+Code in Place Week 5 (Extensions included)
 """
 CANVAS_WIDTH = 300
 CANVAS_HEIGHT = 300

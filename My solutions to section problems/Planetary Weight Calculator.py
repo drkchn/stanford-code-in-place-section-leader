@@ -1,16 +1,15 @@
 """
 Prompts the user for a weight on Earth
-and a planet (in separate inputs). Then 
+and a planet (in separate inputs). Then
 prints the equivalent weight on that planet.
 
-Note that the user should type in a planet with 
+Note that the user should type in a planet with
 the first letter as uppercase, and you do not need
-to handle the case where a user types in something 
+to handle the case where a user types in something
 other than one of the planets (that is not Earth).
 
 Planetary Weight Calculator Section problem
-Code in Place 2023
-May 11th, 2023
+Code in Place Week 3 Extension
 """
 
 

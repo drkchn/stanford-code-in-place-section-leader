@@ -4,8 +4,7 @@ and prints the equivalent weight on Mars.
 
 
 Mars Weight Section problem
-Code in Place 2023
-May 11th, 2023
+Code in Place Week 3
 """
 
 

@@ -2,8 +2,7 @@ from karel.stanfordkarel import *
 
 """
 Hospital Karel Section problem
-Code in Place 2023
-April 27th, 2023
+Code in Place Week 1
 """
 
 

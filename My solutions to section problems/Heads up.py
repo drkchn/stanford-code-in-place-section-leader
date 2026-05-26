@@ -2,8 +2,7 @@ import random
 
 """
 Heads Up Section problem
-Code in Place 2023
-June 1st, 2023
+Code in Place Week 6
 """
 
 # Name of the file to read in!

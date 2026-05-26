@@ -9,7 +9,7 @@ The program generates all circles within the Canvas boundaries.
 
 Scribbles Section problem
 Code in Place 2023
-May 25th, 2023
+Outdated problem
 """
 
 CANVAS_WIDTH = 300
